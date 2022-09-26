@@ -11,9 +11,3 @@ Resources for this lecture:
 [Starter and Final Code](https://github.com/jonasschmedtmann/complete-javascript-course)
 
 Books
-
-## Website
-[The Modern JavaScript Tutorial](https://javascript.info/)
-
-[Freecodecamp's JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
-
